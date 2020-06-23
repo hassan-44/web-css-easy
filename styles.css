@@ -1,0 +1,12 @@
+.bodycolor{
+    background: rgb(174,191,238);
+background: radial-gradient(circle, rgba(174,191,238,1) 0%, rgba(148,208,233,1) 100%);
+}
+.body2{
+    background: rgb(34,226,220);
+    background: radial-gradient(circle, rgba(34,226,220,1) 0%, rgba(148,208,233,1) 100%);
+}
+.body3{
+    background: rgb(129,231,218);
+background: radial-gradient(circle, rgba(129,231,218,1) 0%, rgba(114,160,179,1) 99%);
+}
